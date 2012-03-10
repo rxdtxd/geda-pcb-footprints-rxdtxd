@@ -1,3 +1,8 @@
+# author: RXD/TXD
+# email: rxdtxd at we make things dot net
+# dist-license: GPL3, http://www.gnu.org/licenses/gpl-3.0.txt
+# use-license: unlimited	
+
 Element["" "NICHICON 14" "" "" 379000 307000 0 0 0 100 ""]
 (
 	Pad[0 -31000 0 -16000 6330 1000 7330 "" "1" "square,edge2"]

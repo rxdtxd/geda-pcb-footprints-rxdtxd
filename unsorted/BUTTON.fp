@@ -1,3 +1,7 @@
+# author: RXD/TXD
+# email: rxdtxd at we make things dot net
+# dist-license: GPL3, http://www.gnu.org/licenses/gpl-3.0.txt
+# use-license: unlimited
 
 Element["" "" "" "" 15995 14280 0 0 0 100 ""]
 (

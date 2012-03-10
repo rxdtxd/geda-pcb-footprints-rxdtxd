@@ -1,3 +1,8 @@
+# author: RXD/TXD
+# email: rxdtxd at we make things dot net
+# dist-license: GPL3, http://www.gnu.org/licenses/gpl-3.0.txt
+# use-license: unlimited
+
 Element[0x00000000 "" "" "" 1000 1000 0 -4000 0 100 0x00000000]
 (
 	Pad[-7875 2953 -7875 4133 1969 0 2560 "1" "1" 0x00000100]

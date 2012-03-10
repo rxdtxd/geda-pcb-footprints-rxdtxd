@@ -1,3 +1,8 @@
+# author: RXD/TXD
+# email: rxdtxd at we make things dot net
+# dist-license: GPL3, http://www.gnu.org/licenses/gpl-3.0.txt
+# use-license: unlimited
+
 Element["" "Crystal in HC49smt" "X?" "" 290000 80000 0 -17500 0 100 ""]
 (
 	Pad[-25700 0 -11700 0 8000 2000 10000 "" "1" "square"]

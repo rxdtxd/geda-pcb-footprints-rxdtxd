@@ -1,3 +1,8 @@
+# author: RXD/TXD
+# email: rxdtxd at we make things dot net
+# dist-license: GPL3, http://www.gnu.org/licenses/gpl-3.0.txt
+# use-license: unlimited
+
 Element["" "SMD 6, Generic" "" "" 122000 167000 0 0 0 100 ""]
 (
 	Pad[-15000 12000 0 12000 4500 2000 6500 "1" "1" ""]
